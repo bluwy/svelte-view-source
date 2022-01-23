@@ -1,0 +1,13 @@
+{
+  "name": "svelte-view-source",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.js",
+    "./SourceCode.svelte": "./src/SourceCode.svelte"
+  },
+  "devDependencies": {
+    "magic-string": "^0.25.7",
+    "svelte": "^3.44.1"
+  }
+}
