@@ -8,6 +8,6 @@
   },
   "devDependencies": {
     "magic-string": "^0.25.7",
-    "svelte": "^3.49.0"
+    "svelte": "^5.51.5"
   }
 }
